@@ -1,0 +1,5 @@
+para github
+
+regsiter.jsx es el formulario que hizo jose 
+
+registerForm.jsx es el formulario que hizo mati 

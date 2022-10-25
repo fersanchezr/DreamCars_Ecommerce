@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Polarizado 3M",
+    "type": "Accesories",
+    "price": 6900,
+    "description": "Polarizado completo.",
+    "img": [
+      "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/NDBBGOUTYRFWPN2UVYO4JTRJ6M.jpg"
+    ]
+  },
+  {
+    "name": "Seguro total",
+    "type": "Services",
+    "price": 19000,
+    "description": "Seguro total: Robo, incendio, granizo, accidente.",
+    "img": [
+      "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/NDBBGOUTYRFWPN2UVYO4JTRJ6M.jpg"
+    ]
+  },
+  {
+    "name": "Limpia Parabrisas",
+    "type": "Replacement parts",
+    "price": 6900,
+    "description": "Escobilla limpiaparabrisas de alta calidad.",
+    "img": [
+      "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/NDBBGOUTYRFWPN2UVYO4JTRJ6M.jpg"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[{
+  "brand": "chevrolet",
+  "model": "camaro",
+  "year": 2010,
+  "price": 110000 ,
+  "description": "6.2 Convertible Ss V8",
+  "img": ["https://http2.mlstatic.com/D_NQ_NP_2X_661740-MLA51180770700_082022-F.webp"]
+},
+{
+  "brand":"ford",
+  "model":"mustang",
+  "year":2019,
+  "price":200000 ,
+  "description":"5.0 Gt 421cv cabrio",
+  "img" : ["https://http2.mlstatic.com/D_NQ_NP_2X_967702-MLA51000543836_082022-F.webp"]
+},
+{
+  "brand": "audi",
+  "model": "r8",
+  "year": 2015,
+  "price": 350000 ,
+  "description": "Coupé 5.2 610cv",
+  "img" : ["https://http2.mlstatic.com/D_NQ_NP_2X_715785-MLA50446893090_062022-F.webp"]
+},
+{
+  "brand": "bmw",
+  "model": "m3", 
+  "year": 2019,
+  "price": 1500000 ,
+  "description": "accesorios originales",
+  "img" : ["https://http2.mlstatic.com/D_NQ_NP_2X_643316-MLA49972243971_052022-F.webp"]
+},
+{
+  "brand": "ferrari",
+  "model": "Ferrari 599 ",
+  "year": 2007,
+  "price": 330000 ,
+  "description": "Ferrari 599 6.0 Gtb 620cv F1",
+  "img": ["https://http2.mlstatic.com/D_NQ_NP_2X_978373-MLA50430899597_062022-F.webp"]
+},
+{
+  "brand": "mercedesBenz",
+  "model": "C63",
+  "year": 2015,
+  "price": 250000 ,
+  "description": "unico en el mercado",
+  "img" : ["https://http2.mlstatic.com/D_NQ_NP_2X_916191-MLA50906284262_072022-F.webp"]
+
+},
+{
+  "brand": "AstonMartin ",
+  "model": "Vantage Roads",
+  "year": 2019,
+  "price": 400000 ,
+  "description": "Vantage Roadster Sportshift 426 Cv V8",
+  "img" : ["https://http2.mlstatic.com/D_NQ_NP_2X_695202-MLA48717548997_122021-F.webp"]
+},
+{
+  "brand": "mercedes",
+  "model": "glk300",
+  "year": 2019,
+  "price": 110000 ,
+  "description": "2.5 v6 Sprt 4 matic",
+  "img" : ["https://http2.mlstatic.com/D_NQ_NP_2X_694035-MLA50054400331_052022-F.webp"]
+},
+{
+  "brand": "alfaRomeo",
+  "model": "Giulia",
+  "year": 2021,
+  "price": 248000 ,
+  "description": " 2.9 V6 510cv Quadrifoglio",
+  "img" : ["https://http2.mlstatic.com/D_NQ_NP_2X_926031-MLA51152119182_082022-F.webp"]
+}]
